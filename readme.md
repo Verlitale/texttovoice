@@ -1,11 +1,13 @@
 ````
-Ubah voice bisa cek di file TYPE VOICE
-Untuk ubah text yang dibaca tinggal ubah di dalam file TEXT.txt
-dapetin SESSION ID :
-Log in to the TikTok Web App
-Install the Cookie Editor extension for your browser.
-Open the extension and look for "sessionid"
-Copy it and paste it.
+> Ubah voice bisa cek di file TYPE VOICE
+
+> Untuk ubah text yang dibaca tinggal ubah di dalam file TEXT.txt
+
+> Dapetin SESSION ID :
+  Log in to the TikTok Web App
+  Install the Cookie Editor extension for your browser.
+  Open the extension and look for "sessionid"
+  Copy it and paste it.
 
 
 Run : 
