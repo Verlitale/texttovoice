@@ -1,4 +1,7 @@
 ````
+Ubah voice bisa cek di file TYPE VOICE
+Untuk ubah text yang dibaca tinggal ubah di dalam file TEXT.txt
+dapetin SESSION ID : [Get session id](https://github.com/oscie57/tiktok-voice/wiki/Obtaining-SessionID)
 Run : 
 1. pip install -r requirements.txt
 2. py main.py -v VOICE -f FILENAME.txt --session SESSION_ID 
