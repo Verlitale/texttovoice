@@ -9,7 +9,7 @@
   Open the extension and look for "sessionid"
   Copy it and paste it.
 
-Web version : prayogatri.my.id/tts
+Web version : https://prayogatri.my.id/tts/
 Run : 
 1. pip install -r requirements.txt
 2. py main.py -v VOICE -f FILENAME.txt --session SESSION_ID 
